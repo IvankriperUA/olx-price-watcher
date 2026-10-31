@@ -41,7 +41,7 @@ olx-price-watcher/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/IvankriperUA/olx-price-watcher.git
 cd olx-price-watcher
 ```
 
